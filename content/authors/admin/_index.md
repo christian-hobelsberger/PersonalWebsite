@@ -32,9 +32,8 @@ highlight_name: true
 title: Christian Hobelsberger
 email: ""
 ---
+Christian Hobelsberger ist a statistics student at LMU Munich with a focus on statistics and computer science. He is working as a Data Science Working Student at Telefonica Germany. His intrests include time series analysis, statistical models and cost efficient machine learning algorithms.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He dedicates his free-time towards teaching children at his local school chess.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
