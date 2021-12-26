@@ -22,7 +22,7 @@ organizations:
 education:
   courses:
     - course: Bachelor of Science, Statistics (Computer Science)
-      institution: Massachusetts Institute of Technology
+      institution: Ludwig-Maximilian-Universität, Munich
       year: 2023
     - course: Abitur
       institution: Gymnasium Munich Moosach
