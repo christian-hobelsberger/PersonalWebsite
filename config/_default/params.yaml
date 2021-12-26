@@ -24,7 +24,6 @@ email: chris@test.com
 address:
   city: Munich
   region: Bavaria
-  postcode: '94305'
   country: Germany
   country_code: GER
 office_hours:
