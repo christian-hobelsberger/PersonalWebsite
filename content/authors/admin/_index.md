@@ -15,7 +15,7 @@ social:
     link: https://github.com/christian-hobelsberger
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/christian-hobelsberger
+    link: https://www.linkedin.com/in/christian-hobelsberger
 organizations:
   - name: Telefónica Germany
     url: https://www.telefonica.de
