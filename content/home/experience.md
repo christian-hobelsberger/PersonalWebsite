@@ -40,7 +40,7 @@ experience:
   - title: After-school care
     company: Gymnasium Munich Moosach
     company_url: 'https://gym-muc-moosach.musin.de'
-    company_logo: logo_gmm_weiß_transparent1
+    company_logo: 
     location: Munich
     date_start: '2019-06-01'
     date_end: ''
