@@ -6,6 +6,7 @@ interests:
   - Statistics
   - Machine Learning
   - Artificial Intelligence
+  - Stock Market
   - Chess
 social:
   - icon: envelope
