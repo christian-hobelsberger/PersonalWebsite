@@ -50,14 +50,6 @@ experience:
         * Professional support of the students
         * Management of chess education
 
-  - title: Tutor
-    company: ''
-    company_url: ''
-    company_logo: 
-    location: Munich
-    date_start: '2018-06-01'
-    date_end: '2021-08-01'
-    description: Lessons in math, physics and computer science for school children
 
 design:
   columns: '2'
