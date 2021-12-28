@@ -31,13 +31,13 @@ item:
   organization_url: https://www.linkedin.com/learning/
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.linkedin.com/learning/certificates/b92dc245ddd5e07dfc174d5286dcd1b1ca14eaaeddd26ff8a59ae30505c4329a?trk=share_certificate
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2021-07-05"
+  description: ""
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning/
+  title: Tableau Essential Training (2020.1)
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
