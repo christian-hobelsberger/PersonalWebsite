@@ -17,6 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
+  icon: book
+  icon_pack: fas
+  name: English
+- description: 90%
   icon: r-project
   icon_pack: fab
   name: R
