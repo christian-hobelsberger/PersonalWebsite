@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2021-08-03"
   description: ""
-  organization: LinkedIn
+  organization: Coursera
   organization_url: https://www.coursera.org
   title: Artificial Intelligence Foundations: Machine Learning
   url: ""
