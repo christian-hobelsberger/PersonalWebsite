@@ -34,8 +34,8 @@ highlight_name: true
 title: Christian Hobelsberger
 email: ""
 ---
-Christian Hobelsberger ist a statistics student at LMU Munich with a focus on statistics and computer science. He is working as a Data Science Working Student at Telefonica Germany. His intrests include time series analysis, statistical models and cost efficient machine learning algorithms.
+I am a statistics student at LMU Munich, majoring in statistics and computer science. I am currently working as a Data Science Working Student at Telefonica Germany. My interests include time series analysis, statistical models, and cost-effective machine learning algorithms.
 
-He dedicates his free-time towards teaching children at his local school chess.
+In my free time, I dedicate myself to teaching chess to kids at my local school and building cool stuff.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
