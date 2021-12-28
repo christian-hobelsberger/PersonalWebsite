@@ -25,9 +25,9 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.linkedin.com/learning/certificates/0e4d091a3c844a9d5d7ac0957c076876d9e98e1e479920cd0e3156dca171a429?trk=share_certificate
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-08-03"
   description: ""
-  organization: Coursera
+  organization: LinkedIn
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
