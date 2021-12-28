@@ -31,14 +31,6 @@ header:
 <p><strong>SSL- bzw. TLS-Verschlüsselung</strong></p>
 <p>Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://“ Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile.</p>
 
-<p><strong>Datenschutzbeauftragter</strong></p>
-<p>Wir haben einen Datenschutzbeauftragten bestellt.</p>
-<p>Vorname, Name<br>
-Straße<br>
-12345 Musterstadt<br><br>
-Telefon: 01234-56789<br>
-E-Mail: dsb-e-mail-adresse@ihr-unternehmen.abc</p>
-            
 <p><strong>Server-Log-Dateien</strong></p>
 <p>In Server-Log-Dateien erhebt und speichert der Provider der Website automatisch Informationen, die Ihr Browser automatisch an uns übermittelt. Dies sind:</p>
 <ul>
