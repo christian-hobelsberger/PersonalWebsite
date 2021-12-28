@@ -28,7 +28,7 @@ item:
   date_start: "2021-8-3"
   description: ""
   organization: LinkedIn Learning
-  organization_url: https://www.linkedin.com/
+  organization_url: https://www.edx.org
   title: Artificial Intelligence Foundations: Machine Learning
   url: ""
 - certificate_url: https://www.edx.org
