@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 85%
+  icon: microsoft
+  icon_pack: fab
+  name: Microsoft 365
 - description: 80%
   icon: book
   icon_pack: fas
@@ -36,10 +40,6 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: SQL, LaTeX
-- description: 85%
-  icon: microsoft
-  icon_pack: fab
-  name: Microsoft 365
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
