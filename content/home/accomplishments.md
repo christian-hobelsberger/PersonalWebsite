@@ -30,7 +30,7 @@ item:
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning/
   title: Neural Networks and Deep Learning
-  url: ""
+  url: https://www.linkedin.com/learning/certificates/0e4d091a3c844a9d5d7ac0957c076876d9e98e1e479920cd0e3156dca171a429?trk=share_certificate
 - certificate_url: https://www.linkedin.com/learning/certificates/b92dc245ddd5e07dfc174d5286dcd1b1ca14eaaeddd26ff8a59ae30505c4329a?trk=share_certificate
   date_end: ""
   date_start: "2021-07-05"
@@ -38,15 +38,15 @@ item:
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning/
   title: Tableau Essential Training (2020.1)
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  url: https://www.linkedin.com/learning/certificates/b92dc245ddd5e07dfc174d5286dcd1b1ca14eaaeddd26ff8a59ae30505c4329a?trk=share_certificate
+- certificate_url: https://www.linkedin.com/learning/certificates/6bde9bea7019a8c12b6ffc738567b7ba01fc960ceda63071c7b92cdc11331553?trk=share_certificate
+  date_end: ""
+  date_start: "2020-09-13"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning/
+  title: Python for Data Science Essential Training Part 1
+  url: https://www.linkedin.com/learning/certificates/6bde9bea7019a8c12b6ffc738567b7ba01fc960ceda63071c7b92cdc11331553?trk=share_certificate
 
 design:
   columns: '2' 
