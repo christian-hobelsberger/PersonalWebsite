@@ -48,3 +48,4 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+---
