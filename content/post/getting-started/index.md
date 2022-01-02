@@ -1,7 +1,7 @@
 ---
-title: "My first Post: GPA calculator for german universities"
-subtitle: This is my first little post containing a GPA calculator for german
-  universities
+title: 'My first Post: Analizing the german "Bundestagswahl 2021"'
+subtitle: This is my first little post containing an analysis of the german
+  "Bundestagswahl 2021"
 date: 2022-01-02T12:30:38.666Z
 summary: This is my first little post containing a GPA calculator for german
   universities.
@@ -11,8 +11,12 @@ authors:
   - admin
 lastmod: 2020-12-13T00:00:00Z
 tags:
-  - Academic
-  - 开源
+  - University
+  - GPA
+  - Calculator
+  - R
+  - Excel
+  - tutorial
 categories: []
 projects: []
 image:
@@ -30,7 +34,11 @@ image:
 2. **R Script** that calculates your GPA from an imported **excle sheet**
 3. **GPA Calculator Web App**
 
-## Get Started
+## Excel Template for calculating your GPA
+
+This excel template calculates your GPA for you
+
+👉 **[](https://wowchemy.com/templates/)Download the excel template**
 
 * 👉 **[Create a new site](https://wowchemy.com/templates/)**
 * 📚 **[Personalize your site](https://wowchemy.com/docs/)**
