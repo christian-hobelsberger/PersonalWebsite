@@ -29,7 +29,7 @@ item:
   description: ""
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning/
-  title: Neural Networks and Deep Learning
+  title: Artificial Intelligence Foundations: Machine Learning
   url: https://www.linkedin.com/learning/certificates/0e4d091a3c844a9d5d7ac0957c076876d9e98e1e479920cd0e3156dca171a429?trk=share_certificate
 - certificate_url: https://www.linkedin.com/learning/certificates/b92dc245ddd5e07dfc174d5286dcd1b1ca14eaaeddd26ff8a59ae30505c4329a?trk=share_certificate
   date_end: ""
