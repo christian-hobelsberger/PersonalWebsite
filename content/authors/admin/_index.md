@@ -38,6 +38,6 @@ I am a statistics student at LMU Munich, majoring in statistics and computer sci
 
 In my free time, I dedicate myself to teaching chess to kids at my local school and building cool stuff.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} in English.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}} in English.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Lebenslauf.pdf" "newtab" >}}resumé{{< /staticref >}} in German.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Lebenslauf.pdf" "newtab" >}}résumé{{< /staticref >}} in German.
