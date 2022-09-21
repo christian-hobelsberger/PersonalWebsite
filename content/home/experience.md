@@ -35,10 +35,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Statistical analysis of time series data in python
-        * working with oracle-databases and cloud computing
-        * development of machine learning models with python
-        * Model monitoring and alarm generation
+        * Application development (Python, Gitlab CI/DC, Docker, Scheduler, etc.)
+        * Statistical analysis of time series data in python (alarm generation)
+        * Working with oracle-databases and cloud computing
+        * Development of machine learning models with python
+        * Model monitoring, optimization and retraining
         
   - title: After-school care
     company: Gymnasium Munich Moosach
