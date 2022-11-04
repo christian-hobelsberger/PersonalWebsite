@@ -19,6 +19,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christian-hobelsberger
+  - display:
+      header: false
+    link: https://gym-muc-moosach.musin.de/faecher/schachklub/
+    icon_pack: ai
+    icon: springer
 organizations:
   - name: Telefónica Germany
     url: https://www.telefonica.de
