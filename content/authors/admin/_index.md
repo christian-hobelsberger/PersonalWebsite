@@ -36,7 +36,7 @@ highlight_name: true
 ---
 I am a statistics student at LMU Munich, majoring in statistics and computer science. I am currently working as a Data Science Working Student at Telefonica Germany. My interests include time series analysis, statistical models, and cost-effective machine learning algorithms.
 
-In my free time, I dedicate myself to teaching chess to kids at my local school and building cool stuff.
+In my free time, I dedicate myself to [teaching chess](https://gym-muc-moosach.musin.de/faecher/schachklub/) to kids at my local school and building cool stuff.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}} in English.
 
