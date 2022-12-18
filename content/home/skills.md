@@ -24,22 +24,22 @@ feature:
   icon: book
   icon_pack: fas
   name: English
-- description: 65%
+- description: 70%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 65%
+- description: 70%
   icon: python
   icon_pack: fab
   name: Python
+- description: 60%
+  icon: laptop-code
+  icon_pack: fas
+  name: SQL
 - description: 55%
   icon: java
   icon_pack: fab
   name: Java
-- description: 40%
-  icon: laptop-code
-  icon_pack: fas
-  name: SQL, LaTeX
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
