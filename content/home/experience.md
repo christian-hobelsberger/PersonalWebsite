@@ -61,7 +61,8 @@ experience:
     location: Munich
     date_start: '2018-06-01'
     date_end: '2021-08-01'
-    description: Lessons in math, physics and computer science for high school students which led to improved grades
+    description: |2-
+        * Lessons in math, physics and computer science for high school students which led to improved grades
 
 design:
   columns: '2'
