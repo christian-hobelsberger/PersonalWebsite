@@ -33,13 +33,15 @@ experience:
     date_start: '2021-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Application development (Python, Gitlab CI/DC, Docker, Scheduler, etc.)
-        * Statistical analysis of time series data in python (alarm generation)
-        * Working with oracle-databases and cloud computing
-        * Development of machine learning models with python
-        * Model monitoring, optimization and retraining
+        * Developed an application from scratch using Python and the Gitlab API, seamlessly enabling collaboration between teams for over 100 employees  
+        Tools used: Python, Gitlab-API, Docker, Gitlab-CI/CD, Scheduler
+        * Retrained a machine learning model in Python for alarm generation on financially-relevant time series data, resulting in improved aggregation of alarm periods and a clear reduction of false alarms by 33%
+        Tools used: : Python, SQL, Microsoft Azure Databricks
+        * Compiled a large, labeled dataset from various data sources using complex SQL queries, and subsequently implemented automated plausibility checks using cloud computing resources
+        Tools used: Python, SQL, Oracle/Apache Hive Database
+        * Conducted statistical analysis and tuned the parameters of the STL function for an alarm-generating machine learning model to better detect level shifts
+        Tools used: Python (statsmodels STL, scikit-learn)
+        * Presented to various stakeholders within my division on the complexity of transforming a Python script into a productive application
         
   - title: After-school care
     company: Gymnasium Munich Moosach
@@ -49,10 +51,8 @@ experience:
     date_start: '2019-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Professional support of the students
-        * Management of chess education
+        * Professional support for students in grades 5-8 in various subjects
+        * Management of a chess program that allows students to learn and explore the game of chess
 
   - title: Tutor
     company: ''
@@ -61,7 +61,7 @@ experience:
     location: Munich
     date_start: '2018-06-01'
     date_end: '2021-08-01'
-    description: Lessons in math, physics and computer science for school children
+    description: Lessons in math, physics and computer science for high school students which led to improved grades
 
 design:
   columns: '2'
