@@ -34,13 +34,13 @@ experience:
     date_end: ''
     description: |2-
         * Developed an application from scratch using Python and the Gitlab API, seamlessly enabling collaboration between teams for over 100 employees  
-        Tools used: Python, Gitlab-API, Docker, Gitlab-CI/CD, Scheduler
+        <font size= "2">Tools used: Python, Gitlab-API, Docker, Gitlab-CI/CD, Scheduler</font>
         * Retrained a machine learning model in Python for alarm generation on financially-relevant time series data, resulting in improved aggregation of alarm periods and a clear reduction of false alarms by 33%  
-        Tools used: : Python, SQL, Microsoft Azure Databricks
+        <font size= "2">Tools used: Python, SQL, Microsoft Azure Databricks</font>
         * Compiled a large, labeled dataset from various data sources using complex SQL queries, and subsequently implemented automated plausibility checks using cloud computing resources  
-        Tools used: Python, SQL, Oracle/Apache Hive Database
+        <font size= "2">Tools used: Python, SQL, Oracle/Apache Hive Database</font>
         * Conducted statistical analysis and tuned the parameters of the STL function for an alarm-generating machine learning model to better detect level shifts  
-        Tools used: Python (statsmodels STL, scikit-learn)
+        <font size= "2">Tools used: Python (statsmodels STL, scikit-learn)</font>
         * Presented to various stakeholders within my division on the complexity of transforming a Python script into a productive application
         
   - title: After-school care
