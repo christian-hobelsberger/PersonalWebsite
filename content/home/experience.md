@@ -41,7 +41,6 @@ experience:
         <font size= "2">**Tools used: Python, SQL, Oracle/Apache Hive Database**</font>
         * Conducted statistical analysis and tuned the parameters of the STL function for an alarm-generating machine learning model to better detect level shifts  
         <font size= "2">**Tools used: Python (statsmodels STL, scikit-learn)**</font>
-        * Presented to various stakeholders within my division on the complexity of transforming a Python script into a productive application
         
   - title: After-school care
     company: Gymnasium Munich Moosach
