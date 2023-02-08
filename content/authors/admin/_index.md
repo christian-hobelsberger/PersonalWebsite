@@ -1,7 +1,6 @@
 ---
-title: Christian Hobelsberger
 role: Statistics Student at LMU Munich | Data Science at Telefónica Germany
-avatar_filename: avatar.jpg
+avatar_filename: 0cf51263-76af-4461-adf7-8d70d675eb96.jpeg
 bio: Statistics student at LMU Munich with a penchant for data analysis and chess!
 interests:
   - Statistics
@@ -35,9 +34,10 @@ education:
     - course: Abitur
       institution: Gymnasium Munich Moosach
       year: 2020
-email: ""
 superuser: true
 highlight_name: true
+title: Christian Hobelsberger
+email: ""
 ---
 I am a statistics student at LMU Munich, majoring in statistics and computer science. I am currently working as a Data Science Working Student at Telefonica Germany. My interests include time series analysis, statistical models, and cost-effective machine learning algorithms.
 
