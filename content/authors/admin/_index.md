@@ -33,7 +33,7 @@ education:
       year: 2026
     - course: Bachelor of Science, Statistics (Computer Science)
       institution: Ludwig-Maximilian-Universität, Munich
-      text: GPA: 1.3 (3.7/4.0 GPA)
+      text: GPA 1.3 (3.7/4.0 GPA)
       year: 2023
     - course: Abitur
       institution: Gymnasium Munich Moosach
