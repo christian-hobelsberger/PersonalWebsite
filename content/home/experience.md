@@ -36,11 +36,18 @@ experience:
         * Developed an application from scratch using Python and the Gitlab API, seamlessly enabling collaboration between teams for over 100 employees  
         <font size= "2">**Tools used: Python, Gitlab-API, Docker, Gitlab-CI/CD, Scheduler**</font>
         * Retrained a machine learning model in Python for alarm generation on financially-relevant time series data, resulting in improved aggregation of alarm periods and a clear reduction of false alarms by 33%  
-        <font size= "2">**Tools used: Python, SQL, Microsoft Azure Databricks**</font>
+        <font size= "2">**Tools used: Python (scikit-learn), SQL, Microsoft Azure Databricks**</font>
         * Compiled a large, labeled dataset from various data sources using complex SQL queries, and subsequently implemented automated plausibility checks using cloud computing resources  
         <font size= "2">**Tools used: Python, SQL, Oracle/Apache Hive Database**</font>
-        * Conducted statistical analysis and tuned the parameters of the STL function for an alarm-generating machine learning model to better detect level shifts  
-        <font size= "2">**Tools used: Python (statsmodels STL, scikit-learn)**</font>
+
+  - title: Teaching Assistant
+    company: GESIS - Leibniz Institute for the Social Sciences e.V.
+    company_url: 'https://www.gesis.org/home'
+    company_logo: GESIS-Logo
+    location: Cologne
+    date_start: '2023-08-01'
+    description: |2-
+        * Assisted in teaching the course “Data Science Techniques for Survey Researchers”  
         
   - title: After-school care
     company: Gymnasium Munich Moosach
