@@ -45,7 +45,7 @@ experience:
     company_url: 'https://www.gesis.org/home'
     company_logo: GESIS-Logo
     location: Cologne
-    date_start: '2023-08-01'
+    date_start: ''
     date_end: '2023-08-01'
     description: |2-
         * Assisted in teaching the course “Data Science Techniques for Survey Researchers”  
