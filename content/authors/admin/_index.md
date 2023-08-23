@@ -30,6 +30,7 @@ education:
   courses:
     - course: Master of Science, Statistics and Data Science
       institution: Ludwig-Maximilian-Universität, Munich
+      grade: 1.3 (3.7/4.0 GPA)
       year: 2026
     - course: Bachelor of Science, Statistics (Computer Science)
       institution: Ludwig-Maximilian-Universität, Munich
@@ -37,6 +38,7 @@ education:
       year: 2023
     - course: Abitur
       institution: Gymnasium Munich Moosach
+      grade: 1.3 (3.7/4.0 GPA)
       year: 2020
 superuser: true
 highlight_name: true
