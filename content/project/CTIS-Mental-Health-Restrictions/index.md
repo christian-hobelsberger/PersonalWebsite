@@ -5,6 +5,8 @@ tags:
   - Bachelor Thesis
   - Data Science
   - Mental Health
+  - CTIS
+  - Statistics
 date: "2023-06-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
