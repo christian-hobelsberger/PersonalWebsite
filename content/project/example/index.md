@@ -8,7 +8,7 @@ tags:
 date: "2023-06-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions
+external_link: ''
 
 image:
   caption: Image by Freepik
