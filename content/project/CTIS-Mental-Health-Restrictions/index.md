@@ -19,7 +19,7 @@ links:
     icon_pack: fab
     name: github
     url: https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions
-url_code: 'https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -31,9 +31,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-# The impact of pandemic restrictions on mental health during COVID 19 in Germany
-
 This project utilizes data from the Global COVID-19 Trends and Impact Survey (CTIS) and Corona data Germany to access the **the impact of pandemic restrictions on mental health during COVID 19 in Germany**
 
 ## Paper Link

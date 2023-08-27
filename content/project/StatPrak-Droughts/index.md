@@ -14,8 +14,12 @@ image:
   focal_point: Smart
 
 links:
-url_code: 'https://github.com/StatPrak-Droughts'
-url_pdf: 'uploads/resume.pdf'
+  - icon: github
+    icon_pack: fab
+    name: github
+    url: https://github.com/StatPrak-Droughts
+url_code: ''
+url_pdf: 'uploads/Poster_Climex2.pdf'
 url_slides: ''
 url_video: ''
 
