@@ -75,15 +75,13 @@ My analysis covers the observation period from May 20, 2021, to June 25, 2022.
 ## Project Structure
 
 This repository is organized as follows:
-- [`data_analysis.Rmd`](data_analysis.Rmd): R Markdown file containing the data analysis process.
-- [`data_analysis_prep_tables.R`](data_analysis_prep_tables.R): R script for preparing tables used in the data analysis.
-- [`data_model_fit.Rmd`](data_model_fit.Rmd): R Markdown file for fitting my models.
-- [`data_preparation.Rmd`](data_preparation.Rmd): R Markdown file for data preparation using the various data sources.
+- [`data_analysis.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_analysis.Rmd): R Markdown file containing the data analysis process.
+- [`data_analysis_prep_tables.R`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_analysis_prep_tables.R): R script for preparing tables used in the data analysis.
+- [`data_model_fit.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_model_fit.Rmd): R Markdown file for fitting my models.
+- [`data_preparation.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_preparation.Rmd): R Markdown file for data preparation using the various data sources.
 
 ## Acknowledgments
 
 I would like to express my sincere gratitude to Dr. Anna-Carolina Haensch for her invaluable support and guidance throughout the process of my Bachelor thesis. Her expertise and dedication greatly contributed to the successful completion of this research. Thank you for your valuable input and mentorship.
 
 Thank you for visiting this repository and exploring my Bachelor thesis on the impact of pandemic restrictions on mental health during COVID-19 in Germany.
-
-**Author: Christian Hobelsberger**
