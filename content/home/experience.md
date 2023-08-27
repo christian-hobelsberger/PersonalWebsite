@@ -48,7 +48,7 @@ experience:
     date_start: '2023-08-01'
     date_end: '2023-08-01'
     description: |2-
-        * Assisted in teaching the course “Data Science Techniques for Survey Researchers”  
+        * Assisted in teaching the course “Data Science Techniques for Survey Researchers” at Summer School
         
   - title: After-school care
     company: Gymnasium Munich Moosach
