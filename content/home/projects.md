@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Data Science
     tag: Data Science
+  - name: Mental Health
+    tag: Mental Health
   - name: Other
-    tag: Demo
+    tag: 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
