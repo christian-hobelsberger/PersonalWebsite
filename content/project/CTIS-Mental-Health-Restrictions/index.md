@@ -75,10 +75,10 @@ My analysis covers the observation period from May 20, 2021, to June 25, 2022.
 ## Project Structure
 
 This repository is organized as follows:
-- [`data_analysis.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_analysis.Rmd): R Markdown file containing the data analysis process.
-- [`data_analysis_prep_tables.R`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_analysis_prep_tables.R): R script for preparing tables used in the data analysis.
-- [`data_model_fit.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_model_fit.Rmd): R Markdown file for fitting my models.
-- [`data_preparation.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/data_preparation.Rmd): R Markdown file for data preparation using the various data sources.
+- [`data_analysis.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/blob/main/data_analysis.Rmd): R Markdown file containing the data analysis process.
+- [`data_analysis_prep_tables.R`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/blob/main/data_analysis_prep_tables.R): R script for preparing tables used in the data analysis.
+- [`data_model_fit.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/blob/main/data_model_fit.Rmd): R Markdown file for fitting my models.
+- [`data_preparation.Rmd`](https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions/blob/main/data_preparation.Rmd): R Markdown file for data preparation using the various data sources.
 
 ## Acknowledgments
 
