@@ -1,14 +1,12 @@
 ---
 title: CTIS Mental Health
-summary: We use the UMD Global CTIS survey, policy response information as well as Google trends data provided from
-Our World in Data. As part of our exploratory data analysis we built a Shiny App displaying important mental
-health metrics from the data.
+summary: We use the UMD Global CTIS survey, policy response information as well as Google trends data provided from Our World in Data. As part of our exploratory data analysis we built a Shiny App displaying important mental health metrics from the data.
 tags:
   - Data Science
   - Mental Health
   - CTIS
   - Statistics
-date: "2023-06-08T00:00:00Z"
+date: "2023-03-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
