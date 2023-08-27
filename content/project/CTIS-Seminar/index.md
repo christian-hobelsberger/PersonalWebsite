@@ -21,7 +21,7 @@ links:
     name: github
     url: https://github.com/christian-hobelsberger/CTIS-Seminar
 url_code: ''
-url_pdf: 'uploads/Poster_Climex2.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
