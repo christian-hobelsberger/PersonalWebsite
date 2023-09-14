@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://christian.hobelsberger-muc.de/uploads/certificate_scrum_basics.pdf
+  date_end: ""
+  date_start: "2023-09-13"
+  description: ""
+  organization: Telefónica Germany GmbH & Co. OHG
+  organization_url: https://www.telefonica.de/
+  title: Scrum Basics
+  url: https://christian.hobelsberger-muc.de/uploads/certificate_scrum_basics.pdf
 - certificate_url: https://www.linkedin.com/learning/certificates/0e4d091a3c844a9d5d7ac0957c076876d9e98e1e479920cd0e3156dca171a429?trk=share_certificate
   date_end: ""
   date_start: "2021-08-03"
@@ -39,14 +47,6 @@ item:
   organization_url: https://www.linkedin.com/learning/
   title: Tableau Essential Training (2020.1)
   url: https://www.linkedin.com/learning/certificates/b92dc245ddd5e07dfc174d5286dcd1b1ca14eaaeddd26ff8a59ae30505c4329a?trk=share_certificate
-- certificate_url: https://www.linkedin.com/learning/certificates/6bde9bea7019a8c12b6ffc738567b7ba01fc960ceda63071c7b92cdc11331553?trk=share_certificate
-  date_end: ""
-  date_start: "2020-09-13"
-  description: ""
-  organization: LinkedIn
-  organization_url: https://www.linkedin.com/learning/
-  title: Python for Data Science Essential Training Part 1
-  url: https://www.linkedin.com/learning/certificates/6bde9bea7019a8c12b6ffc738567b7ba01fc960ceda63071c7b92cdc11331553?trk=share_certificate
 
 design:
   columns: '2' 
