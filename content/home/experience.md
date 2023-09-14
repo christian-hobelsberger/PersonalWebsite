@@ -31,7 +31,7 @@ experience:
     company_logo: logo_telefonica_o2_blue
     location: Munich
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2023-09-14'
     description: |2-
         * Developed an application from scratch using Python and the Gitlab API, seamlessly enabling collaboration between teams for over 100 employees  
         <font size= "2">**Tools used: Python, Gitlab-API, Docker, Gitlab-CI/CD, Scheduler**</font>
@@ -56,7 +56,7 @@ experience:
     company_logo: 
     location: Munich
     date_start: '2019-06-01'
-    date_end: ''
+    date_end: '2023-06-01'
     description: |2-
         * Professional support for students in grades 5-8 in various subjects
         * Management of a chess program that allows students to learn and explore the game of chess
