@@ -24,7 +24,7 @@ feature:
   icon: book
   icon_pack: fas
   name: English
-- description: 70%
+- description: 75%
   icon: r-project
   icon_pack: fab
   name: R
@@ -32,7 +32,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 60%
+- description: 70%
   icon: laptop-code
   icon_pack: fas
   name: SQL
