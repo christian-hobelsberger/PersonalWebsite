@@ -28,6 +28,7 @@ item:
   date_start: "2023-09-13"
   description: ""
   organization: Telefónica Germany GmbH & Co. OHG
+  organization_logo: logo_telefonica_o2_blue
   organization_url: https://www.telefonica.de/
   title: Scrum Basics
   url: https://christian.hobelsberger-muc.de/uploads/certificate_scrum_basics.pdf
