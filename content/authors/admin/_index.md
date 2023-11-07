@@ -1,5 +1,5 @@
 ---
-role: Statistics Student at LMU Munich | Data Science at Telefónica Germany
+role: Statistics Student at LMU Munich | Data Science at Munich Re
 avatar_filename: avatar.jpg
 bio: Statistics student at LMU Munich with a penchant for data science and chess!
 interests:
