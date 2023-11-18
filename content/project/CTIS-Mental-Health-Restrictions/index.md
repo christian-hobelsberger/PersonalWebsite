@@ -22,7 +22,7 @@ links:
     name: github
     url: https://github.com/christian-hobelsberger/CTIS-Mental-Health-Restrictions
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://doi.org/10.5282/ubm/epub.107255'
 url_slides: ''
 url_video: ''
 
