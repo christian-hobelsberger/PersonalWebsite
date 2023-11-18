@@ -37,7 +37,7 @@ This project utilizes data from the Global COVID-19 Trends and Impact Survey (CT
 
 ## Paper Link
 
-The complete paper can be accessed here: [LINK]().
+The complete paper can be accessed here: [https://doi.org/10.5282/ubm/epub.107255](https://doi.org/10.5282/ubm/epub.107255).
 
 ## Findings and Summary
 
