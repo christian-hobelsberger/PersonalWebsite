@@ -28,7 +28,7 @@ organizations:
     url: https://www.munichre.com/
 education:
   courses:
-    - course: Exchange Semester: Master of Science (M.Sc.), Artificial Intelligence
+    - course: Exchange Semester, Master of Science (M.Sc.), Artificial Intelligence
       institution: University of Groningen, Groningen, Netherlands
       year: 2024
     - course: Master of Science (M.Sc.), Statistics and Data Science
