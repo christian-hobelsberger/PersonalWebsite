@@ -31,7 +31,7 @@ experience:
     company_logo: munich_re
     location: Munich
     date_start: '2023-09-15'
-    date_end: ''
+    date_end: '2024-01-31'
   - title: Data Science Working Student
     company: Telefónica Germany
     company_url: 'https://www.telefonica.de'
