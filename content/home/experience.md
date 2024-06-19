@@ -32,6 +32,10 @@ experience:
     location: Munich
     date_start: '2023-09-15'
     date_end: '2024-01-31'
+    description: |2-
+        * Conception and implementation of a global three-part training series on generative AI and Large Language Models (LLMs) for more than 700 colleagues worldwide
+        * Supporting the company-wide rollout of the low code/no code tool Dataiku, community management and leading the  technical support of the business units for use cases, including automatic data cleansing and harmonization through LLMs and termination statistics
+        * Participation in the Global Data & AI Conference 2023 with over 350 participants
   - title: Data Science Working Student
     company: Telefónica Germany
     company_url: 'https://www.telefonica.de'
