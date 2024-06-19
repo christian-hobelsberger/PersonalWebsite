@@ -72,15 +72,15 @@ experience:
         * Professional support for students in grades 5-8 in various subjects
         * Management of a chess program that allows students to learn and explore the game of chess
 
-  - title: Tutor
-    company: ''
-    company_url: ''
-    company_logo: 
-    location: Munich
-    date_start: '2018-06-01'
-    date_end: '2021-08-01'
-    description: |2-
-        * Lessons in math, physics and computer science for high school students which led to improved grades
+#  - title: Tutor
+#    company: ''
+#    company_url: ''
+#    company_logo: 
+#    location: Munich
+#    date_start: '2018-06-01'
+#    date_end: '2021-08-01'
+#    description: |2-
+#        * Lessons in math, physics and computer science for high school students which led to improved grades
 
 design:
   columns: '2'
