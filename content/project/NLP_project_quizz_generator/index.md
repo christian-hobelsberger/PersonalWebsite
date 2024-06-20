@@ -5,6 +5,7 @@ tags:
   - Data Science
   - Natural Language Processing
   - Machine Learning
+  - Deep Learning
   - Large Language Model
 date: "2024-04-20T00:00:00Z"
 
