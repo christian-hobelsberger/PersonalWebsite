@@ -20,17 +20,17 @@ links:
     icon_pack: fab
     name: github
     url: https://github.com/christian-hobelsberger/dataset_bias_deep_learning_project
-    url_code: ''
-    url_pdf: ''
-    url_slides: ''
-    url_video: ''
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 ## Introduction
