@@ -1,6 +1,6 @@
 ---
-title: Implementation and extended Replication: Unbiased Look at Dataset Bias
-summary: In our Dataset Bias Analysis project, we conducted a literature review and empirical study on dataset biases in image classification. Building on the work of Torralba and Efros in 2011, we reproduced their Histogram of Gradients (HOG) and Support Vector Machines (SVM) results and compared them with modern Convolutional Neural Networks (CNNs) using the caltech101, MSRC, and PASCAL VOC-2007 datasets. Our study focused on identifying selection, framing, and labeling biases, and we found that both SVM and CNN models showed significant performance drops when trained and tested on different datasets, highlighting the persistent problem of dataset bias affecting model generalization.
+title: "Implementation and extended Replication: Unbiased Look at Dataset Bias"
+summary: "In our Dataset Bias Analysis project, we conducted a literature review and empirical study on dataset biases in image classification. Building on the work of Torralba and Efros in 2011, we reproduced their Histogram of Gradients (HOG) and Support Vector Machines (SVM) results and compared them with modern Convolutional Neural Networks (CNNs) using the caltech101, MSRC, and PASCAL VOC-2007 datasets. Our study focused on identifying selection, framing, and labeling biases, and we found that both SVM and CNN models showed significant performance drops when trained and tested on different datasets, highlighting the persistent problem of dataset bias affecting model generalization."
 tags:
   - Data Science
   - Deep Learning
@@ -12,18 +12,14 @@ date: "2024-04-16T00:00:00Z"
 external_link: ''
 
 image:
-  caption: CNN Architecture used for image classification
+  caption: "CNN Architecture used for image classification"
   focal_point: Smart
 
 links:
   - icon: github
     icon_pack: fab
     name: github
-    url: https://github.com/christian-hobelsberger/dataset_bias_deep_learning_project
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+    url: "https://github.com/christian-hobelsberger/dataset_bias_deep_learning_project"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
