@@ -32,7 +32,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-# Summary of the Project
 
 ## Introduction
 
