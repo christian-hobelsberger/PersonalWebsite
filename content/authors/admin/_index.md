@@ -31,7 +31,7 @@ education:
     - course: Master of Science (M.Sc.), Statistics and Data Science
       institution: Ludwig-Maximilian-Universität, Munich
       year: 2026
-      - course: Exchange Semester, Master of Science (M.Sc.), Artificial Intelligence
+    - course: Exchange Semester, Master of Science (M.Sc.), Artificial Intelligence
       institution: University of Groningen, Groningen, Netherlands
       year: 2024
     - course: Bachelor of Science (B.Sc.), Statistics (Computer Science)
