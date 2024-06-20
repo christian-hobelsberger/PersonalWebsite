@@ -14,18 +14,18 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/christian-hobelsberger
+    link: "https://github.com/christian-hobelsberger"
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/christian-hobelsberger
+    link: "https://www.linkedin.com/in/christian-hobelsberger"
   - display:
       header: false
-    link: https://gym-muc-moosach.musin.de/faecher/schachklub/
+    link: "https://gym-muc-moosach.musin.de/faecher/schachklub/"
     icon_pack: ai
     icon: springer
 organizations:
   - name: Munich Re
-    url: https://www.munichre.com/
+    url: "https://www.munichre.com/"
 education:
   courses:
     - course: Master of Science (M.Sc.), Statistics and Data Science
