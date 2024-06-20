@@ -1,6 +1,6 @@
 ---
 title: "Multiple Choice Question Generation by Fine-Tuning BART in Modular and Unified Approaches"
-summary: "To streamline the generation of high-quality multiple-choice questions (MCQs), two sequential pipelines were created: one with a modular design for question/answer and distractor generation, and another with a single unified model. BART was fine-tuned on the SciQ dataset, and the unified model outperformed the modular model on qualitative measures and cosine similarity of correct answers and distractors. Another pipeline was developed to extend the use of the model\: given a URL and a topic, it generates an MCQ. A fine-tuned BART-large model successfully generated MCQs beyond the science domain of the SciQ dataset."
+summary: "To streamline the generation of high-quality multiple-choice questions (MCQs), two sequential pipelines were created: one with a modular design for question/answer and distractor generation, and another with a single unified model. BART was fine-tuned on the SciQ dataset, and the unified model outperformed the modular model on qualitative measures and cosine similarity of correct answers and distractors. Another pipeline was developed to extend the use of the model: given a URL and a topic, it generates an MCQ. A fine-tuned BART-large model successfully generated MCQs beyond the science domain of the SciQ dataset."
 tags:
   - Data Science
   - Natural Language Processing
