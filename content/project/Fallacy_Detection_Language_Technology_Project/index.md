@@ -70,12 +70,10 @@ The results of our experiments revealed significant differences in the performan
 | Llama3  | Chain-of-Thought     | 20.50         | 17.24      | 17.94        |
 | Llama3  | Generated Knowledge  | 31.25         | 30.35      | 30.58        |
 | Llama3  | Self-Consistency     | 19.25         | 18.29      | 18.06        |
-
 | Gemma   | Thread-of-Thought    | 10.16         | 10.09      | 10.12        |
 | Gemma   | Chain-of-Thought     | 25.09         | 27.85      | 25.45        |
 | Gemma   | Generated Knowledge  | 23.44         | 22.40      | 22.32        |
 | Gemma   | Self-Consistency     | 24.88         | 25.62      | 24.51        |
-
 | Mistral | Thread-of-Thought    | 29.12         | 26.27      | 26.87        |
 | Mistral | Chain-of-Thought     | 31.55         | 30.58      | 30.01        |
 | Mistral | Generated Knowledge  | 34.32         | 29.68      | 30.06        |
@@ -89,12 +87,10 @@ The results of our experiments revealed significant differences in the performan
 | Llama3  | Chain-of-Thought     | 24.61         | 22.08      | 22.57        |
 | Llama3  | Generated Knowledge  | 31.83         | 30.92      | 31.20        |
 | Llama3  | Self-Consistency     | 23.42         | 19.43      | 20.18        |
-
 | Gemma   | Thread-of-Thought    | 16.90         | 19.91      | 17.53        |
 | Gemma   | Chain-of-Thought     | 25.85         | 31.25      | 26.72        |
 | Gemma   | Generated Knowledge  | 27.25         | 25.17      | 25.47        |
 | Gemma   | Self-Consistency     | 25.10         | 25.43      | 19.57        |
-
 | Mistral | Thread-of-Thought    | 37.05         | 38.01      | 36.57        |
 | Mistral | Chain-of-Thought     | 38.32         | 35.79      | 35.89        |
 | Mistral | Generated Knowledge  | 37.08         | 34.50      | 35.02        |
