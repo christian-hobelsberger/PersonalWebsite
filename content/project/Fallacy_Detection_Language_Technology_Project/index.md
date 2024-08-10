@@ -19,7 +19,7 @@ links:
   - icon: github
     icon_pack: fab
     name: github
-    url: ""
+    url: "https://github.com/christian-hobelsberger/Fallacy_Detection_Language_Technology_Project"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
