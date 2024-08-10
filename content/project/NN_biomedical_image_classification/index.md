@@ -106,4 +106,4 @@ This study demonstrates the effectiveness of Convolutional Neural Networks (CNNs
 - Christian Hobelsberger
 - Mohamed Hassan
 - Manos Savvides
-- Neelam Bharwani4
+- Neelam Bharwani
