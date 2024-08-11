@@ -13,7 +13,7 @@ date: "2024-06-20T00:00:00Z"
 external_link: ''
 
 image:
-  caption: "CNN Architecture used for image classification"
+  caption: "Image by Freepik"
   focal_point: Smart
 
 # Slides (optional).
