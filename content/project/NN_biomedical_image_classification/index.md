@@ -13,7 +13,7 @@ date: "2024-06-22T00:00:00Z"
 external_link: ''
 
 image:
-  caption: "CNN Architecture used for image classification"
+  caption: "Three examples for each of the eight cell types for classification"
   focal_point: Smart
 
 links:
