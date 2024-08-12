@@ -33,6 +33,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+## Abstract
+To streamline the generation of high-quality multiple-choice questions (MCQs), two sequential pipelines were created: one with a modular design for question/answer and distractor generation, and another with a single unified model. BART was fine-tuned on the SciQ dataset, and the unified model outperformed the modular model on qualitative measures and cosine similarity of correct answers and distractors. Another pipeline was developed to extend the use of the model: given a URL and a topic, it generates an MCQ. A fine-tuned BART-large model successfully generated MCQs beyond the science domain of the SciQ dataset.
+
 ## Overview
 To enhance the generation of high-quality multiple-choice questions (MCQs), we developed two distinct pipelines. One utilizes a modular design for separate question/answer and distractor generation, while the other employs a single unified model.
 
