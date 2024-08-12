@@ -28,6 +28,8 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+## Abstract
+This study explores the effectiveness of different prompting techniques for fallacy detection, a task requiring complex reasoning, using three State-of-the-Art (SotA) LLMs: Llama3, Gemma 7B, and Mistral 7B. We evaluate five prompting techniques: a handcrafted baseline, Chain-of-Thought (CoT), Thread-of-Thought (ThoT), Knowledge Generation, and Self-Consistency, against the Multi-level Annotated Fallacy Dataset (MAFALDA). The study aims to determine the impact of these techniques on LLM performance in fallacy detection, identifying the best combination of LLM and prompting technique according to the MAFALDA taxonomy. The findings highlight the individual strengths and limitations of each prompting technique and discuss future research directions.
 
 ## Introduction
 This blog post delves into the application of Large Language Models (LLMs) to the task of detecting logical fallacies in online discourse. Logical fallacies, which are errors in reasoning that undermine the logic of an argument, are prevalent in discussions ranging from social media debates to political speeches. We explored how different LLMs, leveraging state-of-the-art prompting techniques, could be employed to identify these fallacies with greater accuracy.
