@@ -48,3 +48,5 @@ email: ""
 I am a statistics student at LMU Munich, majoring in statistics and computer science. I am currently working as a Central Analytics Intern at Munich Re. My interests include time series analysis, statistical models, and cost-effective machine learning algorithms.
 
 In my free time, I dedicate myself to [teaching chess](https://gym-muc-moosach.musin.de/faecher/schachklub/) to kids at my local school and building cool stuff.
+
+{{< icon name="download" pack="fas" >}} Contact me to get a copy of my résumé.
