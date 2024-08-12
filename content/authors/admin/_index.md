@@ -50,3 +50,7 @@ I am a statistics student at LMU Munich, majoring in statistics and computer sci
 In my free time, I dedicate myself to [teaching chess](https://gym-muc-moosach.musin.de/faecher/schachklub/) to kids at my local school and building cool stuff.
 
 {{< icon name="download" pack="fas" >}} Contact me to get a copy of my résumé.
+
+<!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}} in English. --->
+
+<!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Lebenslauf.pdf" "newtab" >}}résumé{{< /staticref >}} in German. --->
