@@ -12,7 +12,7 @@ date: "2024-06-09T00:00:00Z"
 external_link: ''
 
 image:
-  caption: "CNN Architecture used for image classification"
+  caption: "AI generated with Microsoft Designer"
   focal_point: Smart
 
 links:
