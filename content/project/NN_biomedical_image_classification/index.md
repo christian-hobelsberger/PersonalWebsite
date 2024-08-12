@@ -29,6 +29,8 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+## Abstract
+Biomedical image analysis plays a critical role in the diagnosis and treatment of patients with serious diseases. Advances in data availability and machine learning have improved the accuracy and efficiency of these analyses. This paper explores the use of convolutional neural networks (CNNs) for blood cell classification, a task essential for complete blood counts that identify infections based on blood cell characteristics. Manual assessment of blood cells is error-prone and resource-intensive, highlighting the need for automated solutions. We implemented a CNN using the BloodMNIST dataset, which contains over 17,000 images across eight blood cell classes. The CNN achieved superior performance with an accuracy of 0.914, significantly outperforming the baseline 1-layer Feedforward Neural Network on all evaluated metrics. Our results demonstrate that CNNs, with their ability to capture spatial hierarchies, provide a robust solution for blood cell classification, offering improved accuracy and reliability for medical diagnostics.
 
 ## 1. Introduction
 
