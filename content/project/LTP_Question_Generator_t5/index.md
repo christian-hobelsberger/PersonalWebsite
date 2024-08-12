@@ -23,6 +23,8 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+## Abstract
+This paper presents a detailed study on the fine-tuning of Google’s t5 model aimed at enhancing its ability to generate high-quality, relevant questions. Leveraging the diverse and widely accepted SQuAD dataset, we trained our model specifically for question generation. Our results indicate significant improvements in multiple performance metrics, including BLEU, ROUGE and Word Mover’s Distance scores. The results were evaluated in a qualitative manner using an interactive interface. We discuss the implications of these findings for the field of model based question generation, highlighting potential applications in education. Despite the advancements, we acknowledge certain limitations in terms of generalization. Future work is suggested to further refine the model, explore alternative architectures, and integrate the enhanced model into broader AI systems.
 
 ## Introduction
 The project aims to address the labor-intensive task of generating high-quality educational questions by leveraging AI, specifically the T5 transformer model. The goal is to create a model that generates accurate and contextually relevant questions, utilizing the SQuAD dataset. This approach is expected to improve accessibility and effectiveness in education, particularly in the context of online learning platforms.
