@@ -33,7 +33,8 @@ experience:
     date_start: '2024-07-01'
     date_end: '2024-08-31'
     description: |2-
-        * Developed an AI-powered system for automating the extraction of insurance submission information using state-of-the-art Large Language Models; improving the F1 score of relevant variable extraction by over 100%
+        ''
+# Developed an AI-powered system for automating the extraction of insurance submission information using state-of-the-art Large Language Models; improving the F1 score of relevant variable extraction by over 100%
   - title: Central Analytics Intern
     company: Munich Re
     company_url: 'https://www.munichre.com/'
