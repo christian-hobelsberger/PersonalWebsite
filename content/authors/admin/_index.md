@@ -26,7 +26,7 @@ social:
 organizations:
   - name: Munich Re
     url: "https://www.munichre.com/"
-  - name: relAI
+  - name: relAI (M.Sc. Student)
     url: "https://zuseschoolrelai.de/"
 education:
   courses:
