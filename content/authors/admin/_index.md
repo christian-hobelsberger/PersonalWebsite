@@ -26,6 +26,8 @@ social:
 organizations:
   - name: Munich Re
     url: "https://www.munichre.com/"
+  - name: relAI
+    url: "https://zuseschoolrelai.de/"
 education:
   courses:
     - course: Master of Science (M.Sc.), Statistics and Data Science
