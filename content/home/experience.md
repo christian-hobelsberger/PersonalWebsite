@@ -25,6 +25,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Integrated Study Program (Masters)
+    company: Munich Re
+    company_url: 'https://www.munichre.com/'
+    company_logo: munich_re
+    location: Munich
+    date_start: '2024-09-01'
+    date_end: ''
   - title: Modeling & Analytics Intern
     company: Munich Re Specialty - North America
     company_url: 'https://www.munichre.com/specialty/north-america/en.html'
