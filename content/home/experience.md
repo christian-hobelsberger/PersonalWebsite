@@ -41,8 +41,7 @@ experience:
     date_end: '2024-08-31'
     description: |2-
         * Developed an AI-powered system to automate the extraction of primary insurance submission information using state-of-the-art large language models (LLMs). Improved the F1 score for various variable extractions by up to 100%
-        * Improved the performance of generative AI models by introducing advanced prompting techniques, leading to significant
-gains in the quality and efficiency of insurance information extraction
+        * Improved the performance of generative AI models by introducing advanced prompting techniques, leading to significant gains in the quality and efficiency of insurance information extraction
   - title: Central Analytics Intern
     company: Munich Re
     company_url: 'https://www.munichre.com/'
