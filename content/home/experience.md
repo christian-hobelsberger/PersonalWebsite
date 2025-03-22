@@ -32,6 +32,9 @@ experience:
     location: Munich
     date_start: '2024-09-01'
     date_end: ''
+    description: |2-
+        * Underwriting F&C Casualty (Financial Lines) & Digital Underwriting (Mar 2025 - present)
+        * Project Manager for the Tech Trend Radar 2025 (Oct 2024 - Feb 2025)
   - title: Modeling & Analytics Intern
     company: Munich Re Specialty - North America
     company_url: 'https://www.munichre.com/specialty/north-america/en.html'
