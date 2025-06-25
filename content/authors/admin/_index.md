@@ -47,7 +47,7 @@ highlight_name: true
 title: Christian Hobelsberger
 email: ""
 ---
-I am a student at LMU Munich, majoring in Statistics & Data Science. I am currently working at Munich Re as part of an integrated study program and a M.Sc. student at the Konrad Zuse School of Excellence in Reliable AI (relAI Scholarship). My interests include time series analysis, statistical models, and cost-effective machine learning algorithms.
+I am a student at LMU Munich, majoring in Statistics & Data Science. I am currently working at Munich Re as part of an integrated study program and a M.Sc. student at the Konrad Zuse School of Excellence in Reliable AI ([relAI Scholarship](https://zuseschoolrelai.de/scholarship-association/). My interests include time series analysis, statistical models, and cost-effective machine learning algorithms.
 
 In my free time, I dedicate myself to [teaching chess](https://gym-muc-moosach.musin.de/faecher/schachklub/) to kids at my local school and building cool stuff.
 
