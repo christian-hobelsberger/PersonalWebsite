@@ -1,12 +1,12 @@
 ---
-title: "Heart Disease Prediction and Interpretability"
+title: "Systematic Evaluation of Uncertainty Estimation Methods in Large Language Models"
 summary: "This project investigates ways to improve the reliability of large language models (LLMs) by measuring their confidence in generated answers. Four uncertainty estimation methods were tested on question-answering tasks. These were VCE, MSP, Sample Consistency, and CoCoA. The results show that, although each method captures different aspects of confidence, the hybrid CoCoA method provides the most reliable and calibrated results overall."
 tags:
   - Data Science
   - Natural Language Processing
   - Large Language Models
   - Statistics
-date: "2024-06-22T00:00:00Z"
+date: "2025-09-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://arxiv.org/abs/2510.20460v1'

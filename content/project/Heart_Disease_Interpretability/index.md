@@ -6,7 +6,7 @@ tags:
   - Machine Learning
   - Statistics
   - Medicine
-date: "2024-06-22T00:00:00Z"
+date: "2024-06-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
