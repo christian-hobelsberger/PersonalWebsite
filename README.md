@@ -11,5 +11,4 @@ This is my Project on building my personal website using Wowchemy.
 * Accomplishments
 * Skills
 * Contact
-* [CV](https://christian.hobelsberger-muc.de/uploads/resume.pdf;)
 <!--END_SECTION:containing-->
