@@ -9,7 +9,7 @@ tags:
 date: "2025-09-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://arxiv.org/abs/2510.20460v1'
+external_link: ''
 
 image:
   caption: "Deployment pipeline including LLM Uncertainty Evaluation"
@@ -20,6 +20,8 @@ links:
     icon_pack: fab
     name: github
     url: "https://github.com/christian-hobelsberger/LLMUncertainty"
+  - name: ArXiv
+    url: "https://arxiv.org/abs/2510.20460v1"
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
