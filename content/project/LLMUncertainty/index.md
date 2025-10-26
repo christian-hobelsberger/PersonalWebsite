@@ -14,7 +14,6 @@ external_link: ''
 image:
   caption: "Deployment pipeline including LLM Uncertainty Evaluation"
   focal_point: Smart
-  alt_text: "Deployment pipeline including LLM Uncertainty Evaluation"
 
 links:
   - icon: github
